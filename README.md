@@ -1,5 +1,5 @@
 - 👋 Hey, @amoghskanda here
-- 👀 interested in Machine Learning
+- 👀 interested in Machine Learning and Computer Vision
 - 🌱 I’m currently learning LSTMs and hosting ML applications on Cloud
 - You can HMU via mail, amoghs387@gmail.com
 
