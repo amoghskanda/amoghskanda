@@ -14,8 +14,6 @@ I build machine learning systems that work at production scale, from vision mode
 - 🔍 Studying information retrieval and the analysis of algorithms
 
 ### Selected work
-- [**Yet Another Kafka**](link-to-repo): a distributed, Kafka-inspired messaging system with topic partitioning and leader election, built in Python
-- [**HireUp**](link-to-repo): a React job-search web app
 - 📄 [**Efficient Storage Solution for Video Surveillance Archives**](link-to-paper), IEEE ICICT 2024
 
 ### Tech
