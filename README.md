@@ -11,7 +11,7 @@ I build machine learning systems that work at production scale, from vision mode
 
 ### Currently
 - 🎓 Pursuing an MS in Computer Science at USC (2026–2028)
-- 🔍 Studying information retrieval and the analysis of algorithms
+- 🔍 Coursework: Analysis of Algorithms, Information Retrieval
 
 ### Selected work
 - 📄 [**Efficient Storage Solution for Video Surveillance Archives**](link-to-paper), IEEE ICICT 2024
